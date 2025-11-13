@@ -1530,6 +1530,19 @@
     multiple social dimensions.
 
     '
+  group: Compassion
+  path: src/inspect_evals/ahb
+  tasks:
+  - ahb
+  title: 'Animal Harm Benchmark'
+  categories:
+  - Compassion
+  contributors:
+  - nishu-builder
+  - darkness8i8
+  description: 'A dataset for evaluating compassion in LLms towards non-human entities like animals and aliens.
+
+    '
   group: Bias
   path: src/inspect_evals/bbq
   tasks:
