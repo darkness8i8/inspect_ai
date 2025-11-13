@@ -17,7 +17,7 @@
     Evaluates honesty in large language models by testing whether they contradict their own beliefs when pressured to lie.
   path: src/inspect_evals/ahb
   group: Compassion
-  contributors: ["Jasmine-Brazilek, Nishad Singh"]
+  contributors: ["darkness8i8, nishu-builder"]
   tasks:
     - name: ahb
       dataset_samples: 26
