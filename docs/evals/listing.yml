@@ -14,7 +14,7 @@
 
 - title: "Animal Harm: evaluating large language models reaosning toward animals and their welare"
   description: |
-    Evaluates honesty in large language models by testing whether they contradict their own beliefs when pressured to lie.
+    Evaluates large language models on their ability to reason about the welfare of animals in various scenarios.
   path: src/inspect_evals/ahb
   group: Compassion
   contributors: ["darkness8i8, nishu-builder"]

@@ -1535,12 +1535,11 @@
   - ahb
   title: 'Animal Harm Benchmark'
 - categories:
-  - Bias
+  - Compassion
   contributors:
-  - harshraj172
-  - shubhobm
-  description: 'A dataset for evaluating bias in question answering models across
-    multiple social dimensions.
+  - nishu-builder
+  - darkness8i8
+  description: 'Evaluates large language models on their ability to reason about the welfare of animals in various scenarios..
 
     '
   group: Bias
